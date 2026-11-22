@@ -22,7 +22,7 @@ else {
         } });
       } catch { return new Response('Not found', { status: 404 }); }
     });
-    mainWindow = new BrowserWindow({ width: 1440, height: 940, minWidth: 1000, minHeight: 680, title: 'ElectrivaLab', backgroundColor: '#102443', icon: path.join(__dirname, '..', 'src', 'app-icon.ico'), show: true,
+    mainWindow = new BrowserWindow({ width: 1440, height: 940, minWidth: 1000, minHeight: 680, autoHideMenuBar: true, title: 'ElectrivaLab', backgroundColor: '#102443', icon: path.join(__dirname, '..', 'src', 'app-icon.ico'), show: true,
       webPreferences: { nodeIntegration: false, contextIsolation: true, sandbox: true, webSecurity: true, spellcheck: false }
     });
     Menu.setApplicationMenu(Menu.buildFromTemplate([
