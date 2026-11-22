@@ -2,6 +2,26 @@
 
 Elektronik devreleri kurmak, kontrol kodu yazmak ve ölçerek öğrenmek için çevrimdışı çalışan masaüstü laboratuvarı.
 
+## Ekran görüntüleri
+
+Görseller ElectrivaLab’ın önceki arayüzünden alınmıştır.
+
+### Devre atölyesi
+
+![ElectrivaLab devre atölyesi ve ölçüm paneli](electrivalab-preview.jpg)
+
+### Bileşen kütüphanesi
+
+![Kontrol kartları, sensörler ve diğer devre bileşenlerinin listesi](library-preview.jpg)
+
+### Bağlantı rehberi
+
+![Seçili bileşen için pin ve kablo bağlantı önerileri](wiring-guide-preview.jpg)
+
+### Uçuş devreleri
+
+![ElectrivaLab uçuş elektroniği devre örneği](flight-preview.jpg)
+
 ## Özellikler
 
 - 52 bileşenden oluşan kütüphane: kontrol kartları, sensörler, motorlar ve güç bileşenleri.
