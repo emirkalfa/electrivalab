@@ -10,10 +10,6 @@ Görseller ElectrivaLab’ın önceki arayüzünden alınmıştır.
 
 ![ElectrivaLab devre atölyesi ve ölçüm paneli](electrivalab-preview.jpg)
 
-### Bileşen kütüphanesi
-
-![Kontrol kartları, sensörler ve diğer devre bileşenlerinin listesi](library-preview.jpg)
-
 ### Bağlantı rehberi
 
 ![Seçili bileşen için pin ve kablo bağlantı önerileri](wiring-guide-preview.jpg)
